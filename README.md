@@ -4,3 +4,8 @@ Cryptocurrency price charts conveniently located in your MacBook menu bar
 ![Elevator App](https://github.com/zayneio/Elevator-App/blob/master/elevator-homepage.png?raw=true)
 
 Elevator is a desktop app for Mac built with Electron and React. 
+
+## Features
+* 1,000+ Cryptocurrencies
+* Automatic price updates every 60 seconds
+* In depth data including current price, 24 hour percentage changes, market rank, market cap and more!
