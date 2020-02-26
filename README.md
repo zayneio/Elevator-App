@@ -1,4 +1,4 @@
-# Elevator-App
+# Elevator
 Cryptocurrency price charts conveniently located in your MacBook menu bar
 
 ![Elevator App](https://github.com/zayneio/Elevator-App/blob/master/elevator-homepage.png?raw=true)
