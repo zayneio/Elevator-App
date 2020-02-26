@@ -11,6 +11,6 @@ Elevator is a desktop app for Mac built with Electron and React.
 * In depth data including current price, 24 hour percentage changes, market rank, market cap and more!
 * Dark Mode (New!)
 
-![Dark Mode](https://github.com/zayneio/Elevator-App/blob/master/elevator-dark-mode.png?raw=true)
+![Dark Mode](https://github.com/zayneio/Elevator-App/blob/master/dark-mode-display.png?raw=true)
 
 Learn more about Elevator or download it for Mac [here](https://elevator.wtf).
