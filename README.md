@@ -3,7 +3,7 @@ Cryptocurrency price charts conveniently located in your MacBook menu bar
 
 ![Elevator App](https://github.com/zayneio/Elevator-App/blob/master/elevator-homepage.png?raw=true)
 
-Elevator is a desktop menu bar app for your MaczBook. Built with Electron and React. 
+Elevator is a desktop menu bar app for your MacBook. Built with Electron and React. 
 
 ## Features
 * 1,000+ Cryptocurrencies
